@@ -1,0 +1,10 @@
+{
+  "name"          : "node-requests",
+  "description"   : "Allow multiple domains define for remote server connection",
+  "homepage"      : "https://github.com/murvinlai/node-requests",
+  "keywords"      : ["request", "multiple domains", "remote server", "client", "browser"],
+  "author"        : "Murvin Lai <murvinlai@gmail.com>",
+  "repository"    : {"type": "git", "url": "git://github.com/murvinlai/node-requests.git"},
+  "main"          : "node0requests.js",
+  "version"       : "0.0.1"
+}
